@@ -1,5 +1,6 @@
 # mi-primer--proyecto-prepa.
 Un proyecto de ejemplo para aprender Git y GitHub
+![jeje](jeje.jpg)
 - ***Francisco alvarez medina***
 - ***17***
 - ***19/09/2007***
